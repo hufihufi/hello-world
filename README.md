@@ -1,2 +1,4 @@
 # hello-world
-TEstrepository
+Testrepository
+
+First try to install umami with git
